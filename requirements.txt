@@ -1,7 +1,9 @@
-streamlit==1.45.1
-pandas==2.2.3
-plotly==6.1.1
-scikit-learn==1.4.2
-numpy==2.2.6
-altair==5.5.0
-# any other valid pip packages
+streamlit>=1.32.0
+pandas>=1.5.3
+plotly>=5.20.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+altair>=5.2.0
+xgboost>=2.0.0
+matplotlib>=3.7.0
+
